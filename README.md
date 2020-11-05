@@ -1,4 +1,4 @@
-### Hi there 👋
+### 0xBYTESHIFT's homepage
 
 <!--
 **0xBYTESHIFT/0xBYTESHIFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Contacts
+MAIL: 0xbyteshift at gmail
+
+## Statistics
+![Stats](https://github-readme-stats.vercel.app/api?username=0xbyteshift&theme=gruvbox)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=0xbyteshift&theme=gruvbox&layout=compact)
